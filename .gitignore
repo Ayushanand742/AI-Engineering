@@ -1,0 +1,3 @@
+.env
+*.venv
+day1/.venv
